@@ -30,7 +30,7 @@
           <div class="w-14 h-14 bg-brain-pink/20 rounded-xl flex items-center justify-center mb-6 text-brain-pink group-hover:scale-110 transition-transform">
             <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
           </div>
-          <h3 class="text-2xl font-bold text-white mb-3">Dificuldade Adaptativa</h3>
+          <h3 class="text-2xl font-bold text-white mb-3">Dificuldade Progressiva</h3>
           <p class="text-gray-400 leading-relaxed">
             O algoritmo do jogo aumenta a velocidade e a complexidade das contas com base no progresso do jogador.
           </p>
@@ -43,7 +43,7 @@
           </div>
           <h3 class="text-2xl font-bold text-white mb-3">Pesquisa do TCC</h3>
           <p class="text-gray-400 leading-relaxed">
-            Validação de como elementos de "Game Design" ajudam a reduzir a ansiedade matemática no ambiente educacional.
+            Jogo educacional para apoio ao ensino de matemática básica com diagnóstico personalizado por meio de Grandes Modelos de Linguagem.
           </p>
         </div>
       </div>
