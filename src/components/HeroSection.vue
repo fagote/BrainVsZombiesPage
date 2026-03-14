@@ -7,11 +7,20 @@
     <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-brain-pink/20 via-dark-bg to-dark-bg"></div>
     
     <div class="relative z-10 text-center px-4 max-w-4xl mx-auto">
-      <h1 class="text-6xl md:text-8xl font-black mb-6 tracking-tighter">
-        <span class="text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">BRAIN</span> 
-        <span class="text-zombie-green mx-2 font-mono">VS</span> 
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brain-pink to-purple-500 drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">ZOMBIES</span>
+      <h1 class="text-6xl md:text-8xl font-black mb-6 tracking-tighter text-center flex flex-col md:flex-row items-center justify-center gap-2">
+        <span class="text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">
+          BRAIN
+        </span>
+
+        <span class="text-zombie-green font-mono">
+          VS
+        </span>
+
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brain-pink to-purple-500 drop-shadow-[0_0_20px_rgba(236,72,153,0.6)]">
+          ZOMBIES
+        </span>
       </h1>
+
       
       <p class="text-xl md:text-2xl text-gray-300 font-light mb-10 max-w-2xl mx-auto leading-relaxed">
         A matemática é sua única arma contra o apocalipse. 
@@ -37,3 +46,4 @@
     </div>
   </section>
 </template>
+

@@ -28,9 +28,9 @@ import mathVideo from '../assets/math.mp4'
 
       <!-- Gallery Grid -->
       <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
-        <div v-for="i in 4" :key="i" class="aspect-square bg-white/5 rounded-xl border border-white/10 overflow-hidden relative group">
+        <div class="aspect-square bg-white/5 rounded-xl border border-white/10 overflow-hidden relative group">
           <div class="absolute inset-0 flex items-center justify-center text-gray-500 font-mono text-xs text-center px-4 transition-all duration-300 group-hover:bg-white/10 group-hover:text-white">
-            Screenshot {{i}} <br>(Tela do Jogo)
+            <a href="https://fagote.github.io/mathZombie/">Hora de JOGAR!</a>
           </div>
         </div>
       </div>
