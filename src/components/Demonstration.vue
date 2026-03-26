@@ -10,7 +10,7 @@ import mathVideo from '../assets/math.mp4'
           <span class="text-white">Veja em </span><span class="text-zombie-green">Ação</span>
         </h2>
         <p class="text-gray-400 text-lg max-w-2xl mx-auto">
-          Screenshots e vídeos demonstrando o funcionamento interno do jogo de matemática.
+          O funcionamento interno do jogo de matemática.
         </p>
       </div>
 
@@ -27,13 +27,27 @@ import mathVideo from '../assets/math.mp4'
       </div>
 
       <!-- Gallery Grid -->
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
-        <div class="aspect-square bg-white/5 rounded-xl border border-white/10 overflow-hidden relative group">
-          <div class="absolute inset-0 flex items-center justify-center text-gray-500 font-mono text-xs text-center px-4 transition-all duration-300 group-hover:bg-white/10 group-hover:text-white">
-            <a href="https://fagote.github.io/mathZombie/">Hora de JOGAR!</a>
-          </div>
-        </div>
-      </div>
+            <a href="https://fagote.github.io/mathZombie/">
+              <div class="flex justify-center mt-12">
+                
+                <div class="aspect-square w-40 bg-white/5 rounded-xl border border-white/10 overflow-hidden relative group flex flex-col items-center justify-center transition-all duration-300 hover:scale-110 hover:bg-white/10">
+                  
+                  <!-- Zumbi -->
+                  <div class="text-5xl mb-2 transition-all duration-300 
+                              drop-shadow-[0_0_15px_rgba(168,85,247,0.9)]
+                              group-hover:drop-shadow-[0_0_30px_rgba(168,85,247,1)]">
+                    🧟
+                  </div>
+
+                  <!-- Texto -->
+                  <div class="text-gray-400 font-mono text-xs text-center transition-colors duration-300 group-hover:text-white">
+                    Hora de JOGAR!
+                  </div>
+
+                </div>
+
+              </div>
+            </a>
 
     </div>
   </section>

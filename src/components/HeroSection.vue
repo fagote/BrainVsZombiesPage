@@ -24,7 +24,7 @@
       
       <p class="text-xl md:text-2xl text-gray-300 font-light mb-10 max-w-2xl mx-auto leading-relaxed">
         A matemática é sua única arma contra o apocalipse. 
-        Sobreviva resolvendo equações dinâmicas neste TCC intenso!
+        Sobreviva resolvendo equações dinâmicas neste jogo intenso!
       </p>
       
       <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
