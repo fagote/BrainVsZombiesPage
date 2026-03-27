@@ -10,7 +10,7 @@ import mathVideo from '../assets/math.mp4'
           <span class="text-white">Veja em </span><span class="text-zombie-green">Ação</span>
         </h2>
         <p class="text-gray-400 text-lg max-w-2xl mx-auto">
-          O funcionamento interno do jogo de matemática.
+          Veja o funcionamento interno do jogo de matemática.
         </p>
       </div>
 
@@ -27,7 +27,7 @@ import mathVideo from '../assets/math.mp4'
       </div>
 
       <!-- Gallery Grid -->
-            <a href="https://fagote.github.io/mathZombie/">
+            <a href="https://fagote.github.io/mathZombie/" target="_blank">
               <div class="flex justify-center mt-12">
                 
                 <div class="aspect-square w-40 bg-white/5 rounded-xl border border-white/10 overflow-hidden relative group flex flex-col items-center justify-center transition-all duration-300 hover:scale-110 hover:bg-white/10">
